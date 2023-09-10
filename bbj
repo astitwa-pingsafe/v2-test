@@ -1,0 +1,20 @@
+[
+	{
+		"key": "key",
+		"title": "Key",
+		"value": "rzp_test_dMwvRUwbvBZsfc",
+		"isPrimary": true
+	},
+	{
+		"key": "secret",
+		"title": "Secret",
+		"value": "tg12Unxn3jFkHyxhphvS0yF9",
+		"isPrimary": false
+	},
+	{
+		"key": "env",
+		"title": "Environment",
+		"value": "test",
+		"isPrimary": false
+	}
+]
